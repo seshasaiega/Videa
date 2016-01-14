@@ -1,6 +1,6 @@
 # Videa
 
-This is first time to use Git Hub
+
 I have uploaded some interesting works in Java, HIVE, PIG scripts, and also some presentations:
   HIVE/Simple Table.sql: 
      very simple table creation
