@@ -6,13 +6,6 @@ CREATE  TABLE warehouse.lkp_uds_dim_org
 		country string,
 		market_segment string
 )
-comment 'Queryable hive table for Organization country and merket segment Details'
+comment 'Queryable hive table for Organization country and market segment Details'
 ;
 
-
-hive script 
-
-hive-site.xml
-
-
-cluster
